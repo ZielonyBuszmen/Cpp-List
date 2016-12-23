@@ -1,7 +1,6 @@
 #include <iostream>
 #include "list.h"
 #include "ksiazka.h"
-//typedef Ksiazka Item;
 using namespace std;
 
 int main() {
